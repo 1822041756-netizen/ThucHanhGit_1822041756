@@ -1,12 +1,12 @@
-cat > README.md << 'EOF'
+\# Bài thực hành Git \& GitHub
 
-Bài thực hành Git \& GitHub
 
-Họ và tên: Nguyễn Thùy Linh
 
-MSSV: 1822041756
+\- Họ và tên: Nguyễn Thùy Linh
 
-Mục đích: Thực hành quản lý mã nguồn với Git và GitHub.
+\- MSSV: 1822041756
 
-EOF
+\- Mục đích: Thực hành quản lý mã nguồn với Git và GitHub.
+
+\- Repository: https://github.com/1822041756-netizen/ThucHanhGit\_1822041756
 
